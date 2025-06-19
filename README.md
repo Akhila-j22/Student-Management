@@ -131,4 +131,3 @@ Made with ❤️ by **Akhila Juturu**
 
 Give it a ⭐ on GitHub, share with your classmates, and feel free to fork and improve!  
 Every great application starts with a well-structured project like this. ✨
-# Student-Management
