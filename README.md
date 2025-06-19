@@ -26,7 +26,7 @@
 
 Here’s a live screenshot of the system in action:
 
-![Student Management System Screenshot](./Screenshot.png)
+![Student Management System Screenshot](Screenshot 2025-06-19 101142.png)
 
 > 📌 The app displays data fetched from the MySQL database after inserting records from the JavaFX interface.
 
